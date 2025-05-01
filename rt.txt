@@ -126,3 +126,15 @@ CHC动作电影,rtsp://223.99.188.13/PLTV/88888888/224/3221227571/10000100000000
 茶,rtsp://223.99.188.13/PLTV/88888888/224/3221227480/10000100000000060000000008787924_0.smil
 乐游,rtsp://223.99.188.13/PLTV/88888888/224/3221227508/10000100000000060000000008788012_0.smil
 汽摩,rtsp://223.99.188.13/PLTV/88888888/224/3221227531/10000100000000060000000008905512_0.smil
+
+🦚  凤   凰,#genre#
+凤凰中文,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://162.62.120.19/qitv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://162.62.120.19/qitv.fengshows.cn/live/0701phk72.m3u8
+凤凰资讯,https://gitee.com/k-web/ku9/js/gztzdy/js/raw/d/fhzx.js?id=fhzx
+凤凰中文,https://gitee.com/k-web/ku9/js/gztzdy/js/raw/d/fhzx.js?id=fhzw
+凤凰香港,https://gitee.com/k-web/ku9/js/gztzdy/js/raw/d/fhzx.js?id=fhhk
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
