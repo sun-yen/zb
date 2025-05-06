@@ -132,5 +132,5 @@ CHC动作电影,rtsp://223.99.188.13/PLTV/88888888/224/3221227571/10000100000000
 凤凰资讯,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,https://gitee.com/k-web/ku9/js/gztzdy/js/raw/d/fhzx.js?id=fhzw
+凤凰中文,https://gitee.com/k-web/ku9/js/gztzdy/js/raw/d/fhzx.js?id=fhzx
 凤凰香港,https://gitee.com/k-web/ku9/js/gztzdy/js/raw/d/fhzx.js?id=fhhk
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
